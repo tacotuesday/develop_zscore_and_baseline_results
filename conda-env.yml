@@ -1,0 +1,15 @@
+name: aduh
+channels:
+  - defaults
+dependencies:
+  - autopep8
+  - scipy
+  - python=3.10
+  - scikit-learn
+  - pyod
+  - pytest
+  - matplotlib
+  - numpy
+  - flake8
+  - statsmodels
+prefix: /opt/miniconda3
